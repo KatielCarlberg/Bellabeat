@@ -1,2 +1,2 @@
 # Bellabeat Case Study
-https://katielcarlberg.github.io/Bellabeat/#prepare
+https://katielcarlberg.github.io/Project-Links/
